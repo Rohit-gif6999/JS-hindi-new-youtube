@@ -1,5 +1,7 @@
 // Primitive (call by value)
 
+// Stack(Primitive)  , Heap(Non-Primitive)
+
 // 7 types : string,number,Boolean, null, undefined, symbol, BigInt
 
 const score = 100
